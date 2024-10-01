@@ -8,13 +8,7 @@ Gustavo Pierre Santos (RM 558928)
 Eric Megherdijan Darakjian (RM 557082)
 Kheyla Thais (RM 558434)
 
-Arquitetura Proposta
-A arquitetura da solução é composta por três principais componentes:
 
-Dispositivos IoT: Inclui ESP32 e sensores (DHT22 para temperatura e sensores de velocidade).
-Back-end: Um broker MQTT para a troca de mensagens entre dispositivos e uma aplicação que processa e armazena os dados.
-Front-end: Um dashboard para visualização dos dados em tempo real.
-Diagrama da Arquitetura
 
 Recursos Necessários
 Dispositivos IoT

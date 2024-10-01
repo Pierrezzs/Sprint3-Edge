@@ -6,7 +6,7 @@ Vinicius Henrique Oliveira (RM 556908)
 Gabriel Miranda (RM 559102)
 Gustavo Pierre Santos (RM 558928)
 Eric Megherdijan Darakjian (RM 557082)
-Kheyla (RM 558434)
+Kheyla Thais (RM 558434)
 
 Arquitetura Proposta
 A arquitetura da solução é composta por três principais componentes:

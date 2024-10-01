@@ -1,0 +1,5 @@
++-------------------+         +-------------------+         +-------------------+
+|   Dispositivos    |         |       Back-end    |         |      Front-end     |
+|      IoT          | ----->  |     (Broker MQTT) | ----->  |    (Dashboard)     |
+| (ESP32 + Sensores)|         |  (Processamento)  |         |   (Visualização)   |
++-------------------+         +-------------------+         +-------------------+
